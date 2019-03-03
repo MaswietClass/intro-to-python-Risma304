@@ -2,9 +2,11 @@
 
 Jawablah pertanyaan berikut ini dengan singkat dan jelas
 1. Sebutkan 3 jenis tipe variabel di dalam Python
-    * Jawab: 
+    * Jawab:
+    integer, float, dan char
 2. Jelaskan mengapa di Python ada aturan Indentation?
     * Jawab:
+    Karena indentation dibutuhkan untuk mengetahui blok program yang merupakan kumpulan dari satu atau lebih statement program
     
 ## Membuat Program Sederhana
 
